@@ -79,25 +79,6 @@ Describe your application and what you learning with it. 😃
 ## :clipboard: Challenge Summary
 The productive people tend to read books a lot, and for this we found it good to build an tools that makes it easier for them to read, so we made an application that show the user’s favorite quotes in one place, by scanning the quotes to be saved with the possibility to share it  
 
-## :rocket: Getting Started
-
-1. Download the repository
-
-  - Using Git
-```shell
-  git clone https://github.com/<your-login>/<repository>.git
-```
-  - Using Github CLI
-```shell
-  gh repo clone <your-login>/<repository>
-```
-  > :bulb: or whichever way you prefer
-
-2. Installation
-
-3. Execution
-
-
 ## 🧐 What's inside?
 
 ### :building_construction: Technologies
@@ -105,36 +86,10 @@ The productive people tend to read books a lot, and for this we found it good to
  - Accessbility Tools 
  - Core Data (<link>)
   
-
-### :lipstick: Linter tools
-- [tool name](<link>)
-
-
-### :package: Packages
-- [package name](<link>)
-
-### A quick look at the top-level directories inside the `./src`.
-
-    ./src
-     ├── assets
-     ├── pages
-     ├── styles
-     ├── other-folder
-
-1.  **`assets`**: all resources used. How icons, images, etc.
-
-2.  **`pages`**: each file is a website page.
-
-3.  **`styles`**: global styles.
-   
-4.  **`other-folder`**: add all folders when incorporation your application.
-
-## :memo: License
-
-This project is under the MIT license. See the file [LICENSE](LICENSE) for more details.
+ 
 
 ---
 
-Build with 💙 By [your name](<your-website>)
+Build with 💙 By [Sara Al-humidi && Sumaya Alzahrani]
 
-Based on the [readme template](https://gist.github.com/henry-ns/a00234378353d9ca43e1bfe043202192) by [Henrique Miranda](http://thehenry.dev/)
+ 
