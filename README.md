@@ -18,35 +18,30 @@
 </p>
 
 <!-- summary -->
-<p align="center">
-  <a href="#clipboard-BigIdea">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-whats-inside">What's inside?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-</p>
+
 
 > under construction...
 
-## :clipboard: Big Idea
+##  Big Idea
 Our big idea it's about  *Productivity*
 
-## :clipboard: Challenge Statement
+## Challenge Statement
 Built tools to help productive people
 
-## :clipboard: Solution Concept
+## Solution Concept
 Help reader to save their best quotes
 
-## :clipboard: Technologies & Tools
+## Technologies & Tools
 
  
 
-## :clipboard: DEMO
+## DEMO
 Describe your application and what you learning with it. 😃
 
-## :clipboard: Challenge Summary
+## Challenge Summary
 The productive people tend to read books a lot, and for this we found it good to build an tools that makes it easier for them to read, so we made an application that show the user’s favorite quotes in one place, by scanning the quotes to be saved with the possibility to share it  
 
-## 🧐 What's inside?
+## What's inside?
 
 ### :building_construction: Technologies
 - Vision Kit
