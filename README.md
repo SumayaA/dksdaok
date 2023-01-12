@@ -71,9 +71,7 @@ Help reader to save their best quotes
 
 ## :clipboard: Technologies & Tools
 
- - Vision Kit
- - Accessbility Tools 
- - Core Data
+ 
 
 ## :clipboard: DEMO
 Describe your application and what you learning with it. 😃
@@ -103,7 +101,9 @@ The productive people tend to read books a lot, and for this we found it good to
 ## 🧐 What's inside?
 
 ### :building_construction: Technologies
-- [technology name](<link>)
+- Vision Kit
+ - Accessbility Tools 
+ - Core Data (<link>)
   
 
 ### :lipstick: Linter tools
